@@ -1,0 +1,8 @@
+.container_app{
+    border: 1PX solid red;
+    width: 350px;
+    height: auto;
+    margin-top: 15px;
+    color: #eee;
+    padding: 10px;
+}
